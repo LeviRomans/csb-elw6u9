@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://leviromans.github.io/csb-elw6u9/static/js/main.c4e7f20e.chunk.js",
+    "main.js.map": "https://leviromans.github.io/csb-elw6u9/static/js/main.c4e7f20e.chunk.js.map",
+    "runtime-main.js": "https://leviromans.github.io/csb-elw6u9/static/js/runtime-main.b97c8103.js",
+    "runtime-main.js.map": "https://leviromans.github.io/csb-elw6u9/static/js/runtime-main.b97c8103.js.map",
+    "static/js/2.067bdb22.chunk.js": "https://leviromans.github.io/csb-elw6u9/static/js/2.067bdb22.chunk.js",
+    "static/js/2.067bdb22.chunk.js.map": "https://leviromans.github.io/csb-elw6u9/static/js/2.067bdb22.chunk.js.map",
+    "index.html": "https://leviromans.github.io/csb-elw6u9/index.html",
+    "precache-manifest.d18fb5b8ea962eb26b3efb54f21904fc.js": "https://leviromans.github.io/csb-elw6u9/precache-manifest.d18fb5b8ea962eb26b3efb54f21904fc.js",
+    "service-worker.js": "https://leviromans.github.io/csb-elw6u9/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b97c8103.js",
+    "static/js/2.067bdb22.chunk.js",
+    "static/js/main.c4e7f20e.chunk.js"
+  ]
+}
